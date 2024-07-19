@@ -3,6 +3,11 @@
 
 #pragma once
 
+#define TAPPING_TERM 200
+
+// #define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
+
+
 // Good defaults for home row modifiers
 // #define TAPPING_TERM 230
 
