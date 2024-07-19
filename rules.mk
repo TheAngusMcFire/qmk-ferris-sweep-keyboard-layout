@@ -1,2 +1,3 @@
 VIA_ENABLE = no
 LTO_ENABLE = no
+CAPS_WORD_ENABLE = yes
