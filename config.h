@@ -4,7 +4,7 @@
 #pragma once
 
 // Good defaults for home row modifiers
-// #define TAPPING_TERM 230
+#define TAPPING_TERM 130
 
 // Handle master/slave detection on low cost Promicro
 #ifdef __AVR__
