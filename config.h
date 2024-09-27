@@ -5,6 +5,7 @@
 
 // Good defaults for home row modifiers
 #define TAPPING_TERM 150
+#define QUICK_TAP_TERM 0
 
 // Handle master/slave detection on low cost Promicro
 #ifdef __AVR__
